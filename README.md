@@ -1,6 +1,6 @@
 # _SOBRA SPHERE_ App Design
 
-Design made with Figma for an app that works similarly to ToGoodToGo but for academic establishments.The app is a bridge between U.Porto's eateries and its community, transforming surplus into savings and pioneering a sustainable, zero-waste dining culture on campus.
+Design made with Figma for an app that works similarly to ToGoodToGo but for academic establishments. The app is a bridge between U.Porto's eateries and its community, transforming surplus into savings and pioneering a sustainable, zero-waste dining culture on campus.
 
 ## Features 
 
@@ -35,4 +35,8 @@ Design made with Figma for an app that works similarly to ToGoodToGo but for aca
 ##### Pages identefications
 
 | Edit profile | Notifications settings | Help and Support | Information about sales to Staffs | Add a bag | Orders history for staffs | Profile Setting Staff |
+
+
+Figma's link to see whole flow: https://www.figma.com/file/Zw26zCuW5si7jc8vs5vg93/FEUP-LEIC-ES-2023-24%2F2LEIC10T3?type=design&node-id=112-728&mode=design&t=vbu5UW5fDhxfzTDI-0
+
 
