@@ -17,10 +17,22 @@ Design made with Figma for an app that works similarly to ToGoodToGo but for aca
 - Customer support
 - Rate a restaurant
 - Information about sales - only available to establishment staff accounts
-- 
+  
 ## MockUps
 <p>
   <img src="mockups1.png">
 </p>
 
+##### Pages identefications
+
+| Loading Page | Chose an action | Login or Register Costumer | Login Costumer | Register Costumer | Search Restaurants | Orders history | Favorites List | Profile Setting |
+
+## MockUps
+<p>
+  <img src="mockups2.png">
+</p>
+
+##### Pages identefications
+
+| Edit profile | Notifications settings | Help and Support | Information about sales to Staffs | Add a bag | Orders history for staffs | Profile Setting Staff |
 
